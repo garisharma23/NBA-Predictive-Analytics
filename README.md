@@ -1,6 +1,6 @@
 # NBA Players' Shot Analytics
 
-##Motivation
+## Motivation
 - Sports, Sporting Events, and Athletes are a connecting point for individuals from anywhere and from any background. It gives us a common ground and an excitement to contemplate and debate, and gives us a chance to compete and be a fan.
 
 - This NBA project was a motivating factor to show each other the intricacies of sports and how each team, each player, and each shot can impact a team and a players profile. It gave us both a better understanding of the game of Basketball on a fundamental basis.
@@ -35,7 +35,7 @@ A few questions we asked ourselves before starting the project:
 This plot analyses the shooting style of LeBron James. The blue dots represent all the shots made by LeBron in the 2016-2017 regular season. The red ones indicate the shots missed. The black dots indicate the spots LeBron is most likely to shoot from.
 
 
-![Screenshot](images/LeBron_James.png)
+![Screenshot](images/LeBron.png)
 
 The black dots represent top 25 spots that LeBron is most likely to shoot from. The size of the dots represent the relative probability of LeBron shooting from that position and the darkness of the dot illustrates his shot accuracy from that spot (with darker shades representing a higher accuracy).
 
